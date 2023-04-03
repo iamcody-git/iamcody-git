@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Prashant Adhikari</h1>
-<h3 align="center">A passionate about computer</h3>
+<h3 align="center">Just going with the flow to adjust with Technology!!</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, JAVA**
 
