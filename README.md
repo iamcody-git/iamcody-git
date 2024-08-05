@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML, CSS**
 
-- 📫 How to reach me **adhikariprashant009@gmail.com**
+- 📫 How to reach me **iamcody.github@gmail.com**
 
-- ⚡ Fun fact **I CaN MAKE YOU HAPPY**
+- ⚡ Fun fact **Just Born , Hustle and Die**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
