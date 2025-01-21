@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Prashant Adhikari</h1>
 <h3 align="center">Just going with the flow to adjust with Technology!!</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, JAVA**
+- 🌱 I’m currently learning **HTML, CSS, JS, Reactjs, Nodejs**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JS, React **
 
 - 📫 How to reach me **iamcody.github@gmail.com**
 
