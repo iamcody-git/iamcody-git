@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Prashant Adhikari</h1>
-<h3 align="center">Just going with the flow to adjust with Technology!!</h3>
+<h3 align="center">veni, vidi, vici</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Reactjs, Nodejs**
+- 🌱 I’m currently learning **Reactjs, Nodejs, AL/ML, SQL, Data Analyst**
 
-- 💬 Ask me about **HTML, CSS, JS, React **
+- 💬 Ask me about **HTML, CSS, JS, React, SQL **
 
 - 📫 How to reach me **iamcody.github@gmail.com**
 
-- ⚡ Fun fact **Just Born , Hustle and Die**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
