@@ -37,9 +37,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamcody-git&show_icons=true&locale=en&theme=default" alt="iamcody-git stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcody-git" alt="iamcody-git streak" height="165"/>
 </p>
 
----
-
-<p align="center"><i>Thanks for stopping by! ⭐️ from <a href="https://github.com/iamcody-git">iamcody-git</a></i></p>
