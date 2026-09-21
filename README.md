@@ -35,5 +35,5 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamcody-git&show_icons=true&locale=en&theme=default" alt="iamcody-git stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcody-git" alt="iamcody-git streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcody-git&layout=compact&locale=en" alt="iamcody-git top languages" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcody-git" alt="iamcody-git streak" height="165"/> </p>
 
