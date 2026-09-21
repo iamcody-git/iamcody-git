@@ -14,8 +14,6 @@
 - 👯 I'm looking to collaborate on **web development and automation projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, SQL, JIRA**
 - 📫 How to reach me: **[Twitter](https://twitter.com/prashan43022547)** · **[Facebook](https://fb.com/prashant.adhikari)** · **[Instagram](https://instagram.com/prashant.adk09)**
-- ⚡ Fun fact: **veni, vidi, vici**
-
 ---
 
 ### 🛠️ Languages and Tools
